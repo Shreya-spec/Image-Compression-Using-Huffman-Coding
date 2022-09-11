@@ -18,4 +18,4 @@ A GUI for streamlining the process to the user as well as a comparison view, whe
 ![image](https://user-images.githubusercontent.com/63296631/189532776-6a04268f-741f-4682-84fb-fff5654bde1b.png) `#1589F0`
 ![image](https://user-images.githubusercontent.com/63296631/189532823-c281e5a5-c252-4d5c-9c46-23142bdbff9c.png) `#1589F0`
 ![image](https://user-images.githubusercontent.com/63296631/189532877-f4ee6a40-9ead-4735-a35a-41f65191fb38.png) `#1589F0`
-![image](https://user-images.githubusercontent.com/63296631/189532902-00ed2cce-9c88-49bf-a5a7-201cd34f459f.png) `#1589F0`
+![#1589F0](https://user-images.githubusercontent.com/63296631/189532902-00ed2cce-9c88-49bf-a5a7-201cd34f459f.png) `#1589F0`
