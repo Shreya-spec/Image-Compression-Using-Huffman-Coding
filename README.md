@@ -1,8 +1,8 @@
-##### Image-Compression-Using-Huffman-Coding
+## Image-Compression-Using-Huffman-Coding
 Data Structures and Algorithms Project.
 
-### Group Member
-. Shreya
+### Member
+**Shreya**
 
 ### Description
 
@@ -11,7 +11,7 @@ Data Structures and Algorithms Project.
 The goal of this project will be to create and deliver and working prototype for Huffman Encoding, and applying the result for image compression. Several concepts learned in this course will be applied here such as Binary Tress, Min Heaps, Stacks and so on. 
 
 ### Goals
-
+#0d1117
 Basic Implementation of a Huffman Tree, use it to encode a text.
 Extend the concept to pixels and create the Huffman Tree for it using intensity maps
 A GUI for streamlining the process to the user as well as a comparison view, where we can show the image before and after compression.
